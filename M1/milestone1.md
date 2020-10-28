@@ -138,6 +138,7 @@ First of all, I read/watch the recipe in order to prepare the ingredients. Then 
 * Some sort of automatic reminders and timers for the different parts of the recipe: you won’t forget anything else on the stove!
 * Get in touch with foreign people to try and get help for foreign recipes.
 * Get in touch with a (local?) community that can help them sourcing specific ingredients and tools that may be hard to find.
+* Necessity of converting and adjusting recipes to calculate the exact quantities of each ingredient for your needs.
 
 
 ## Project Description
