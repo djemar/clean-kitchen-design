@@ -40,9 +40,10 @@ Busra cooks her own meal every single day, because the pandemic prevents her fro
 
  #### *Observation: Giovanni (M, 21, cooks since he started to study at the University, he doesn’t have a lot of experience and so he has to read often recipes)*
 - Giovanni searched a recipe on YouTube and he started watching it before start cooking.
+- The recipe was for four people but he wanted to eat just with a friend, so he did the proportions to cooking for two people
 - He disinfected the kitchen and he washed his hands
 - He prepared the pans and the food
-- He started to cook but he watched again a piece of video because he didn’t remember how to cut potatos. 
+- He started to cook but he watched again a piece of video because he didn’t remember how to cut potatos 
 - He washed again his hands
 - While he was cooking he set the table and he cleaned the floors to gain time
 - He washed his hands
@@ -50,8 +51,8 @@ Busra cooks her own meal every single day, because the pandemic prevents her fro
 
 |  |  |
 :-------------------------:|:-------------------------:
-<img src="momneeded.jpg" width="400" height="300" /> <br/> *Help may be needed for a difficult step of the recipe* | <img src="dirtyhands.jpg" width="400" height="300" /> <br/>*Need to keep washing hands when looking at the recipe* 
-<img src="ingredients.png" width="400" height="300" /> <br/>*Recipes can demand extraordinary things, which may be not readily available* | <img src="math.jpg" width="200" height="300" /> <br/>Ingredients quantities may have to be adapted
+<img src="momneeded.jpg" width="400" height="300" /> <br/> *Nicola - Help may be needed for a difficult step of the recipe* | <img src="dirtyhands.jpg" width="400" height="300" /> <br/>*Sara - Need to keep washing hands when looking at the recipe* 
+<img src="ingredients.png" width="400" height="300" /> <br/>*Busra - Recipes can demand extraordinary things, which may be not readily available* | <img src="math.jpg" width="200" height="300" /> <br/>*Giovanni - Ingredients quantities may have to be adapted*
 ### Interviews
 #### *Questions*
 1. Can you explain to me what steps you follow when you have to cook? (in general)
@@ -133,15 +134,19 @@ First of all, I read/watch the recipe in order to prepare the ingredients. Then 
 
 
 ## User Needs
-* Dirty hands means a dirty phone, and a dirty phone means dirty hands and this is not hygienic.
+* People do not like to touch their phones with their dirty hands because of hygienic concerns.
 * The need of some expert (or at least someone better than them) that can help them while cooking.
 * Some sort of automatic reminders and timers for the different parts of the recipe: you won’t forget anything else on the stove!
-* Get in touch with foreign people to try and get help for foreign recipes.
-* Get in touch with a (local?) community that can help them sourcing specific ingredients and tools that may be hard to find.
-* Necessity of converting and adjusting recipes to calculate the exact quantities of each ingredient for your needs.
+* Get in touch with local/foreign communities to get help for recipes, specific ingredients and kitchen tools etc.
+* Need of automatic doses calculation based on the expected size or quantity of the result.
+
 
 
 ## Project Description
-In a world where the current pandemic is influencing our habits, our project aims at helping people keep their workspace clean and hygienic while they're cooking. 
+In a world where the current pandemic is influencing our habits, our project aims at helping people keep their workspace clean and hygienic while they're cooking.
 
-We thought about a touchless way of interacting with your smartphone by using its proximity sensor to register input events (e.g. advancing through the steps of the recipe).
+We thought about a touchless way of interacting with your **mobile device** (smartphone or tablet) by using its proximity sensor and microphone to register input events. 
+
+Once the user has chosen a recipe from the platform, he'll be able to advance through its steps waving at the proximity sensor, so that he doesn’t have to physically touch his phone with dirty hands while he is cooking.
+
+In addition to that, the user will be able to get help in case he's having trouble with some steps of the recipe, either by having some suggestions or even by calling a volunteer from the community willing to help him.
