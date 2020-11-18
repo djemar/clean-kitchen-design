@@ -2,16 +2,22 @@
 
 ## Storyboards
 
-[Illustrate here the storyboard you created, and describe: a) why you chose it, b) which are its strengths and weaknesses, and c) how well it achieves the identified goal/user need. Include a comprehensive set of digital photos or scans of your storyboard.]
-
 <img src="res/story.png" width="800"/>
 
-In this storyboard it’s shown what will be the user’s approach to the application.
+### <!--- blank line -->
 
-The user wants to make a new recipe and he has some troubles that emerged from the user needs that the application can solve. The first problem is about changing the page of the recipe while he’s cooking and he has dirty hands. The second one is about asking for help in case he has any kind of doubt about the description of the recipe.
+| 1 | 2 | 3 |
+|:--:|:---:|:---:|
+|**4**|**5**|**6**|
+|**7**|**8**|**9**|
 
-The strength is that we can easily understand the user's needs while he’s cooking and this helps the reader to empathize with the user.
-The only weakness could be about understanding how the application will help the user when he has doubt, this due to the fact that we thought about two kinds of implementations and we didn’t want to specify one specific method.
+The storyboard illustrate a typical situation that can happen in a kitchen.
+
+The user wants to cook a new recipe and he encounters some issues during the process. The first problem is about changing the page of the recipe while he’s cooking and he has dirty hands.
+The second one is about asking for help in case he has any kind of doubt about the description of the recipe.
+
+The strength is that the user's needs while he’s cooking are easily understandable and this helps the reader to empathize with the user.
+The only weakness could be about understanding how the application will help the user when he needs help (figure 6-7), due to the fact that we thought about different kinds of implementations and we didn’t want to specify one.
 
 ## Paper Prototypes
 
