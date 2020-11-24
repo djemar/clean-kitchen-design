@@ -46,7 +46,8 @@ These prototypes tackle the project in two different ways, starting by the type 
 
 #### Description
 
-CleanKitchen enables people to cook using their saved favourite recipes or their friends’ ones, all without touching the screen, by using the proximity sensor to navigate through the various steps.
+CleanKitchen enables people to cook using their saved favourite recipes or their friends’ ones. As we have mentioned before in the project description; our main idea is to make this experience more hygenic, **all without touching the screen, by using the proximity sensor to navigate through the various steps**. 
+If a user come across a situation like in the storyboard figure #3, he/she can bring his/her hand closer to the screen (proximity sensor) as the tutorial screen of this prototype illustrates. Moreover, in case of user desires to control the cooking period, he/he can set a timer by using the same proximity sensor as demonstrated on the prototype's tutorial screen #2.
 
 ## <!--- blank line -->
 
