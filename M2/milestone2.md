@@ -72,7 +72,8 @@ CleanKitchen enables people to cook using their saved favourite recipes or their
 
 #### Description
 
-This prototype is focused on the possibility to use a voice recognition system that, by saying a keyword, enables the user to navigate the various steps of the recipe and to ask for help if needed. Thus, as presented in the project description, giving the user the ability to keep an high level of hygiene by not requiring him to touch his phone during the cooking process, while also giving an option to receive some help if needed.
+This prototype is focused on the possibility to use a voice recognition system that, by saying a keyword, enables the user to navigate the various steps of the recipe and to ask for help if needed. Thus, as presented in the project description and in the storyboard, giving the user the ability to keep an high level of hygiene by not requiring him to touch his phone during the cooking process (see panels 3-4 from the storyboard), while also giving an option to receive some help if needed (see panels 6-7 from the storyboard).
+The UI includes a menu where the user can check again the tutorial and access the app settings (hypotetically e.g. language selection).
 
 ## Selection Rationale
 
@@ -80,40 +81,40 @@ This prototype is focused on the possibility to use a voice recognition system t
 
 #### Pros
 
-- Welcome Tutorial
-- Ability to set a timer
-- Ability to use touch while cooking, not just the sensor
+- Welcome Tutorial: it is useful to introduce the users to the app functionalities from the beginning
+- Ability to set a timer: the user doesn't have to switch to another app to start it
+- Ability to use touch while cooking, not just the sensor: the user has multiple way to interact with the app
 
 #### Cons
 
-- Missing search functionalities
-- Tutorial visible only at the start of the app
+- Missing search feature: basic and fundamental feature for this kind of app, so that the user can easily search the database of recipes
+- Tutorial visible only at the start of the app: user may find useful to be reminded of how to use the app, since the app uses non-conventional ways of interaction
 - No way to exit the "cooking mode"
-- Sensor may be easy to trigger
+- Sensor may be easy to trigger involuntarily
 
 ### Prototype #2 Pros and Cons
 
 #### Pros
 
-- Search functionalities
-- Smaller and more clear recipe steps when in "cooking mode"
-- Tutorial reminder before entering in "cooking mode"
+- Search feature: basic and fundamental feature for this kind of app, so that the user can easily search the database of recipes
+- Smaller and more clear recipe steps when in "cooking mode": it is a friendlier way to present information to the user
+- Tutorial reminder before entering in "cooking mode": user may find useful to be reminded of how to use the app, since the app uses non-conventional ways of interaction
 - System status is clear to the user while in "cooking mode":
     - An icon signals when the voice recognition is active and listening to queries
     - The progress is clearly visible at the bottom
 
 #### Cons
 
-- Missing a Welcome Tutorial
+- Missing a Welcome Tutorial: it is useful to introduce the users to the app functionalities from the beginning
 - No way to exit the "cooking mode"
-- Missing an alternative way to interact while in "cooking mode"
+- Missing an alternative way to interact while in "cooking mode". The UI is missing buttons for next/previous/exit actions.
 - Missing some text descriptions on the home page
-- Sensor may catch unwanted queries
+- Sensor may catch unwanted queries if the system is always listening
 
 ### Selection
 
-We decide to choose the Prototype #2 as a base to continue our exploration. However, the Prototype #1 includes some interesting features that we're going to merge to the base:
+We decide to choose the Prototype #2 as a base to continue our exploration because it is the one with the most features we think we need for our app and we find its UI/UX (see Pros and Cons) a better starting point. However, the Prototype #1 includes some interesting features that we're going to merge to the base:
 
 - The two sensors may work better together to accomplish our goal of interacting with the app without being forced to use the touchscreen. (e.g. we can use the proximity sensor to trigger the start of the voice recognition process).
 - The Welcome Tutorial is necessary to explain to the user how our app works from the beginning.
-- The user should still be able to use the touchscreen while in "cooking mode".
+- The user should still be able to use the touchscreen while in "cooking mode". The UI is missing buttons for next/previous/exit actions.
