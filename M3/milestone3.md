@@ -24,11 +24,14 @@ We focused mainly on what we thought were the most important part of the applica
 ## Heuristic Evaluation
 
 The facilitator briefly explained the scope and the main features of the app before letting the evaluators free to explore and examine the wireframe. There were no task prepared for the evaluators, since we believed that the navigation was pretty simple and linear.
+
+The evaluators were given a shared spreadsheet based on the suggested template (linked below) as a way to write down and communicate their findings.
+
 The facilitator was always available to give support and answer questions, the main ones regarding the multimodal interaction (see picture below): since it was difficult to portray the interaction with physical sensors (proximity sensor and microphone), we left most of it to the facilitator to explain.
 
 <img src="res/screenshot.png" width="700" alt="Screenshot from the evaluation"/>
 
-The evaluation was carried out by the Wallet Manager team, and their results are available on a spreadsheet at this [link](<https://docs.google.com/spreadsheets/d/1-rPi7WNKPGi0WxXWe9Yaszs-QMVgsihDdqkUHmvLkBU/edit?usp=sharing>).
+The evaluation was carried out by the Wallet Manager team, and their results are available on the spreadsheet at this [link](<https://docs.google.com/spreadsheets/d/1-rPi7WNKPGi0WxXWe9Yaszs-QMVgsihDdqkUHmvLkBU/edit?usp=sharing>).
 
 ### Potential Changes
 
